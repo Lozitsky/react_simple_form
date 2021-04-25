@@ -10,6 +10,20 @@
 
 # production
 /build
+/public
+/node_modules
+.idea
+
+/src/App.css
+/src/App.js
+/src/App.test.js
+/src/reportWebVitals.js
+/src/index.css
+/src/logo.svg
+/src/setupTests.js
+/package-lock.json
+/react_simple_form.iml
+/package.json
 
 # misc
 .DS_Store
